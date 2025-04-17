@@ -1,0 +1,1001 @@
+Household_ID,Location,Family_Size,Education_Level,Employment_Type,Has_Savings_Account,Uses_Savings_Group,Uses_Mobile_Money,Distance_to_Bank_km,Borrowing,Selling_Assets,Reducing_Spending,Financial_Stress_Score
+1,Mbale,2,Secondary,Subsistence Farming,1,0,0,43.87,0,0,0,38.17
+2,Mbarara,8,Secondary,Livestock Rearing,0,1,0,19.1,0,0,1,40.89
+3,Jinja,9,None,Subsistence Farming,0,0,0,33.68,0,1,0,30.64
+4,Fort Portal,5,Secondary,Livestock Rearing,1,1,1,22.11,0,0,0,41.67
+5,Mbale,4,Tertiary,Subsistence Farming,1,0,0,39.52,0,0,1,52.5
+6,Hoima,5,Primary,Livestock Rearing,0,0,1,40.36,0,0,1,47.78
+7,Lira,5,Secondary,Small Business,1,1,0,47.38,0,0,0,43.4
+8,Mbale,5,Primary,Casual Labor,0,1,0,17.56,1,1,1,24.98
+9,Jinja,9,Secondary,Small Business,1,0,0,24.09,1,1,1,22.48
+10,Fort Portal,5,Secondary,Small Business,1,0,0,32.64,0,0,1,48.68
+11,Mbarara,6,Primary,Subsistence Farming,1,0,1,25.54,0,0,0,44.56
+12,Jinja,9,Tertiary,Livestock Rearing,0,1,1,5.11,0,0,0,49.63
+13,Jinja,6,Tertiary,Casual Labor,0,0,0,32.67,1,0,0,35.78
+14,Lira,9,Secondary,Subsistence Farming,1,1,1,6.39,0,0,0,46.92
+15,Arua,8,Secondary,Subsistence Farming,1,1,0,42.19,0,0,1,41.35
+16,Fort Portal,3,Secondary,Subsistence Farming,1,1,0,5.06,1,0,1,36.56
+17,Gulu,2,Primary,Small Business,1,1,1,39.28,1,0,0,31.36
+18,Jinja,5,Secondary,Livestock Rearing,1,0,0,8.4,1,1,0,23.56
+19,Arua,8,Primary,Livestock Rearing,0,0,1,37.3,0,0,0,43.11
+20,Gulu,3,Primary,Casual Labor,1,0,0,2.13,0,0,0,41.26
+21,Fort Portal,2,Secondary,Livestock Rearing,0,1,0,6.47,0,0,0,45.18
+22,Kampala,7,Primary,Livestock Rearing,0,1,0,2,0,0,0,47.77
+23,Hoima,4,None,Subsistence Farming,0,1,0,9.94,0,0,0,45.31
+24,Arua,6,Primary,Subsistence Farming,1,1,0,1.02,1,0,1,27.71
+25,Masaka,7,Primary,Small Business,0,1,0,5.23,0,0,0,45.41
+26,Kampala,9,Secondary,Subsistence Farming,1,0,0,2.23,1,0,1,29.55
+27,Hoima,2,Primary,Subsistence Farming,1,1,1,22.29,0,0,1,47.31
+28,Lira,7,Secondary,Subsistence Farming,1,1,1,8.7,1,0,0,30.54
+29,Mbale,4,Primary,Subsistence Farming,1,1,0,15.08,0,1,1,37.65
+30,Mbarara,8,Secondary,Small Business,0,1,0,13.88,1,1,1,21.24
+31,Masaka,2,Primary,Subsistence Farming,1,0,0,41.72,0,0,0,48.15
+32,Lira,7,Primary,Casual Labor,0,0,0,9,0,0,0,46.07
+33,Fort Portal,6,Secondary,Casual Labor,0,0,0,25.45,1,1,1,29.37
+34,Lira,6,Secondary,Casual Labor,0,1,0,4.39,1,0,1,29.6
+35,Mbale,3,Primary,Casual Labor,0,1,0,21.12,0,1,1,33.37
+36,Fort Portal,7,None,Subsistence Farming,0,1,0,40.4,0,0,0,40.28
+37,Masaka,5,Primary,Casual Labor,0,0,1,26.31,0,1,0,28.86
+38,Mbale,7,None,Subsistence Farming,1,1,0,13.67,0,0,1,42.76
+39,Gulu,8,Secondary,Small Business,0,0,1,20.98,0,1,0,41.27
+40,Mbarara,2,Primary,Casual Labor,1,1,1,28.24,1,1,1,27.5
+41,Masaka,2,Primary,Livestock Rearing,0,0,0,45.34,0,0,0,45.23
+42,Gulu,8,Primary,Casual Labor,1,1,1,42.06,1,0,0,35.36
+43,Hoima,7,None,Casual Labor,1,1,0,48.1,0,0,0,45.06
+44,Masaka,8,Primary,Subsistence Farming,1,0,0,9.76,1,0,0,32.4
+45,Hoima,4,Primary,Casual Labor,1,0,0,10.71,1,0,0,36.77
+46,Fort Portal,9,Primary,Livestock Rearing,0,1,0,5.91,0,0,1,43.16
+47,Gulu,8,Primary,Subsistence Farming,0,0,0,25.91,0,0,0,46.58
+48,Mbarara,6,Secondary,Subsistence Farming,1,0,1,9.86,0,0,1,44.18
+49,Mbale,8,Primary,Small Business,1,1,1,34.74,1,0,0,37.93
+50,Jinja,2,Tertiary,Small Business,0,1,0,47.86,0,0,0,57.18
+51,Lira,6,Primary,Casual Labor,0,1,0,28.83,1,0,1,34.77
+52,Kampala,2,Secondary,Small Business,1,0,0,36.16,1,0,0,36.02
+53,Mbarara,3,Secondary,Small Business,0,0,0,10.8,1,0,0,37.62
+54,Gulu,5,Secondary,Small Business,1,0,1,41,0,0,1,49.07
+55,Jinja,2,Secondary,Subsistence Farming,0,0,0,42.96,0,0,1,46.8
+56,Mbarara,6,Primary,Subsistence Farming,1,0,1,44.35,0,0,1,40.83
+57,Gulu,3,Primary,Subsistence Farming,1,1,1,43.42,1,0,1,35.35
+58,Arua,2,Primary,Small Business,0,0,0,16.26,0,0,1,40.79
+59,Arua,4,Primary,Subsistence Farming,1,0,1,26.87,1,1,1,29.61
+60,Hoima,8,None,Small Business,0,1,0,16.15,1,0,0,32.08
+61,Mbarara,5,Primary,Subsistence Farming,1,1,0,44.04,0,0,0,41.04
+62,Arua,2,Secondary,Subsistence Farming,1,1,0,45.51,0,0,1,49.12
+63,Gulu,3,Primary,Livestock Rearing,1,1,0,34.04,1,0,0,36.93
+64,Hoima,4,Secondary,Casual Labor,1,0,0,11.78,0,0,1,43.88
+65,Gulu,7,Secondary,Small Business,0,1,1,6.53,0,0,1,51.21
+66,Hoima,3,Tertiary,Livestock Rearing,0,0,0,45.32,0,0,0,45.81
+67,Mbarara,8,Primary,Subsistence Farming,1,0,0,18.46,0,1,1,28.86
+68,Jinja,3,Primary,Small Business,1,0,0,32.83,0,0,1,48.26
+69,Mbale,4,Primary,Subsistence Farming,1,1,0,41.03,0,0,0,44.88
+70,Masaka,3,Primary,Casual Labor,1,1,0,33.76,0,0,0,44.88
+71,Jinja,4,Secondary,Livestock Rearing,1,1,0,49.44,0,0,1,45.29
+72,Fort Portal,2,Primary,Casual Labor,0,1,0,29.14,0,0,1,52.94
+73,Gulu,9,Secondary,Livestock Rearing,1,1,0,28.45,0,0,1,50.21
+74,Fort Portal,4,Primary,Subsistence Farming,1,1,1,31.2,1,0,0,39.04
+75,Jinja,4,Secondary,Casual Labor,0,1,0,27.14,0,0,0,46.09
+76,Hoima,5,Secondary,Casual Labor,0,1,1,39.08,0,0,1,39.49
+77,Masaka,4,Primary,Subsistence Farming,1,0,0,46.95,0,0,1,45.82
+78,Masaka,4,Primary,Casual Labor,1,0,0,45.37,0,0,0,33.96
+79,Kampala,7,Primary,Small Business,1,0,1,25.21,0,0,0,40.41
+80,Masaka,9,None,Livestock Rearing,1,0,0,46.44,0,0,0,53.06
+81,Mbale,2,Primary,Livestock Rearing,1,1,0,8.08,0,0,1,43.41
+82,Masaka,8,None,Livestock Rearing,1,0,0,28.22,1,0,0,33.28
+83,Jinja,5,Primary,Small Business,1,0,0,25.92,0,0,0,41.11
+84,Kampala,7,Primary,Livestock Rearing,1,1,0,11.36,1,0,1,30.05
+85,Jinja,6,Primary,Subsistence Farming,1,1,0,49.17,0,0,0,43.24
+86,Jinja,9,Secondary,Casual Labor,1,0,0,47.97,1,0,1,32.7
+87,Lira,2,None,Small Business,1,0,1,1.09,0,0,1,38.14
+88,Kampala,2,Secondary,Livestock Rearing,0,1,0,27.35,1,0,0,35.87
+89,Jinja,6,Primary,Subsistence Farming,0,1,0,8.46,0,0,0,47.02
+90,Lira,8,Primary,Casual Labor,1,1,0,17.64,0,0,0,44.14
+91,Lira,4,Secondary,Casual Labor,1,1,1,17.26,1,1,0,24.87
+92,Kampala,7,None,Small Business,1,0,0,17.87,0,0,0,48
+93,Fort Portal,3,Primary,Small Business,1,0,1,29.18,0,0,0,46.18
+94,Hoima,5,Primary,Small Business,1,0,0,26.21,0,0,0,47.04
+95,Mbale,3,Primary,Subsistence Farming,1,0,1,23.75,0,1,1,27.77
+96,Hoima,6,Primary,Subsistence Farming,0,1,0,26.58,0,1,1,34.96
+97,Masaka,2,Primary,Small Business,1,0,0,30.31,0,0,1,43.99
+98,Mbale,8,Secondary,Livestock Rearing,1,0,0,13.36,0,0,1,51.32
+99,Masaka,2,Primary,Casual Labor,0,0,0,40.95,0,0,1,45.66
+100,Jinja,5,Primary,Casual Labor,1,0,0,28.06,0,0,0,45.96
+101,Gulu,2,Primary,Subsistence Farming,1,0,0,13.92,0,0,1,44.44
+102,Kampala,2,Secondary,Casual Labor,1,1,0,9.42,0,0,1,47.31
+103,Mbale,5,Primary,Livestock Rearing,0,0,0,38.52,1,0,0,35.48
+104,Mbale,7,Primary,Casual Labor,1,1,0,26.77,0,0,0,42.24
+105,Jinja,7,Primary,Subsistence Farming,1,0,0,10.06,0,0,1,47.07
+106,Fort Portal,5,Tertiary,Subsistence Farming,0,0,1,42.08,0,0,1,43.73
+107,Lira,8,Primary,Livestock Rearing,1,1,0,35.34,1,0,1,32.91
+108,Jinja,6,Primary,Livestock Rearing,0,1,0,17.04,0,0,0,53.24
+109,Arua,9,Primary,Casual Labor,1,1,0,14.6,1,0,1,35.41
+110,Lira,2,Secondary,Casual Labor,1,0,1,11.79,0,0,0,44.34
+111,Kampala,8,Primary,Subsistence Farming,1,1,1,4.5,1,0,0,37.97
+112,Lira,2,Primary,Livestock Rearing,0,0,0,47.27,0,0,1,44.78
+113,Fort Portal,9,Secondary,Livestock Rearing,0,0,0,47.9,1,0,1,34.16
+114,Lira,6,Secondary,Livestock Rearing,0,1,1,20.82,1,0,0,36.61
+115,Kampala,7,Primary,Casual Labor,1,0,0,5.57,0,0,0,41.89
+116,Fort Portal,8,Secondary,Livestock Rearing,1,0,0,17.7,1,0,0,34.39
+117,Hoima,4,Primary,Subsistence Farming,0,0,1,18.64,0,0,0,42.35
+118,Mbale,4,Primary,Subsistence Farming,1,0,1,13.72,0,0,0,41.75
+119,Mbale,9,None,Casual Labor,0,1,0,5.92,0,0,1,43.7
+120,Masaka,4,Tertiary,Small Business,1,1,1,5.98,0,1,0,23.62
+121,Hoima,7,Primary,Casual Labor,1,0,1,46.99,0,0,1,38.92
+122,Hoima,9,Primary,Small Business,1,0,0,39.93,0,0,1,45.91
+123,Lira,7,None,Livestock Rearing,0,0,1,12.43,1,0,0,44.11
+124,Mbale,6,Secondary,Casual Labor,1,0,1,35.95,0,1,0,40.36
+125,Kampala,2,Primary,Subsistence Farming,0,1,0,3.77,0,0,0,42.41
+126,Mbarara,6,Primary,Livestock Rearing,1,0,0,13.41,0,1,1,35.53
+127,Mbarara,6,None,Subsistence Farming,0,0,1,34.78,0,1,1,34.31
+128,Fort Portal,7,Primary,Livestock Rearing,0,0,0,31.6,0,0,1,41.38
+129,Mbale,9,Primary,Casual Labor,1,0,1,31.62,1,1,1,21.99
+130,Mbale,9,Secondary,Small Business,0,0,1,19.33,0,0,0,41.91
+131,Mbarara,4,Primary,Livestock Rearing,0,0,1,16.8,0,0,0,45.28
+132,Mbale,3,Primary,Small Business,0,1,0,20.31,0,0,1,45.87
+133,Lira,2,Secondary,Livestock Rearing,1,0,0,15.02,0,1,0,32.98
+134,Arua,7,None,Subsistence Farming,1,0,0,5.16,1,0,1,32.23
+135,Gulu,4,Primary,Subsistence Farming,0,1,1,10.86,0,0,0,46.37
+136,Hoima,8,Tertiary,Livestock Rearing,1,1,0,3.25,0,0,0,48.69
+137,Masaka,3,Primary,Small Business,1,1,0,9.39,0,0,0,39.46
+138,Fort Portal,3,Primary,Casual Labor,0,1,0,14.92,0,0,0,44.99
+139,Arua,7,Primary,Casual Labor,1,0,1,18.02,0,1,1,38.7
+140,Mbarara,5,Primary,Subsistence Farming,0,1,0,47.06,0,0,0,45.78
+141,Hoima,2,Primary,Casual Labor,1,1,1,40.45,1,1,1,21.84
+142,Mbale,3,Primary,Subsistence Farming,0,1,0,26.04,1,1,1,31.97
+143,Masaka,7,Primary,Casual Labor,0,0,1,33.27,0,0,1,49.42
+144,Mbale,7,Primary,Livestock Rearing,1,0,0,9.45,0,1,0,44.04
+145,Kampala,4,Tertiary,Subsistence Farming,1,1,0,27.51,0,0,0,45.23
+146,Kampala,8,Secondary,Subsistence Farming,1,1,1,40.35,1,1,1,18.87
+147,Masaka,5,Primary,Livestock Rearing,1,0,0,8.71,0,1,0,37.74
+148,Masaka,2,Primary,Subsistence Farming,0,0,0,39.24,0,0,0,47.19
+149,Mbarara,9,Secondary,Casual Labor,1,1,0,22.86,1,0,1,35.24
+150,Masaka,6,Primary,Casual Labor,0,1,0,10.83,1,0,1,24.62
+151,Lira,8,Primary,Subsistence Farming,1,1,0,3.5,0,0,1,43.34
+152,Mbale,8,Tertiary,Casual Labor,0,0,1,47.84,0,0,1,40.61
+153,Arua,4,Primary,Small Business,1,0,1,9.53,0,1,1,38.7
+154,Jinja,9,Secondary,Subsistence Farming,0,1,1,40.59,0,0,1,35.68
+155,Masaka,3,Tertiary,Livestock Rearing,1,1,1,27.38,0,1,0,34.03
+156,Fort Portal,3,Primary,Small Business,0,1,1,46.11,1,1,0,20.63
+157,Kampala,4,None,Subsistence Farming,1,1,0,41.27,0,1,0,35.39
+158,Lira,7,Primary,Livestock Rearing,0,1,0,12.86,0,0,0,43.97
+159,Hoima,3,Secondary,Casual Labor,0,0,0,49.52,0,0,0,43.02
+160,Jinja,5,Secondary,Livestock Rearing,1,0,0,20.17,1,0,0,36.7
+161,Arua,2,Secondary,Small Business,1,0,0,40.88,0,0,1,46.04
+162,Jinja,8,Primary,Casual Labor,0,0,0,49.27,0,1,1,37.43
+163,Masaka,8,Secondary,Subsistence Farming,1,1,0,15.99,1,1,1,31.05
+164,Mbarara,5,Tertiary,Casual Labor,0,0,0,37.55,1,0,0,35.48
+165,Kampala,9,Secondary,Subsistence Farming,0,1,0,9.45,1,0,1,36.96
+166,Kampala,3,Tertiary,Subsistence Farming,0,1,1,30.2,0,1,0,39.51
+167,Hoima,8,Secondary,Livestock Rearing,1,1,0,21.25,1,0,0,32.92
+168,Mbarara,6,Secondary,Livestock Rearing,1,0,1,17.01,0,0,1,40.77
+169,Mbale,9,Primary,Livestock Rearing,0,0,0,5.63,0,0,0,44.15
+170,Gulu,2,Primary,Small Business,1,0,0,9.01,0,0,0,46.22
+171,Lira,2,Primary,Small Business,0,0,1,47.24,1,0,0,38.2
+172,Kampala,8,Secondary,Livestock Rearing,0,0,1,31.32,1,0,0,28.34
+173,Fort Portal,4,Primary,Small Business,0,1,0,8.49,1,1,1,23.69
+174,Kampala,9,Secondary,Casual Labor,1,1,0,24.48,0,0,0,36.63
+175,Jinja,8,Tertiary,Casual Labor,0,0,0,37,0,0,1,46.11
+176,Kampala,4,Secondary,Small Business,1,1,0,40.42,0,0,1,46.36
+177,Kampala,8,None,Small Business,1,0,1,36.99,0,0,0,46.32
+178,Gulu,6,Primary,Casual Labor,1,0,0,8.8,1,0,1,35.72
+179,Gulu,9,Primary,Subsistence Farming,1,1,0,46.33,0,0,1,49.26
+180,Arua,7,Secondary,Casual Labor,1,1,0,25.35,0,0,0,42.2
+181,Mbale,2,Secondary,Casual Labor,1,1,1,35.07,0,0,0,46.97
+182,Fort Portal,8,Tertiary,Small Business,1,0,0,14.84,0,0,1,41.56
+183,Kampala,6,Primary,Casual Labor,1,0,0,32.17,0,0,0,44.76
+184,Kampala,4,Tertiary,Small Business,1,1,0,26.84,0,0,1,38.51
+185,Lira,4,Secondary,Small Business,0,1,0,10.75,1,0,1,37.93
+186,Gulu,2,Primary,Livestock Rearing,1,1,0,45.03,0,0,0,40.91
+187,Fort Portal,5,Secondary,Casual Labor,1,1,0,32.22,0,1,0,37.84
+188,Hoima,8,Primary,Subsistence Farming,1,0,0,17.38,1,0,0,26.12
+189,Arua,9,Primary,Livestock Rearing,0,0,0,30.79,0,1,1,38.95
+190,Mbale,3,Secondary,Small Business,1,0,1,43.55,0,1,1,38.45
+191,Mbarara,4,Primary,Small Business,1,0,1,28.18,1,0,1,36.38
+192,Mbale,9,Secondary,Subsistence Farming,0,1,0,21.51,0,0,1,43.23
+193,Jinja,9,Secondary,Small Business,0,1,0,32.69,0,0,0,50.55
+194,Kampala,7,Primary,Casual Labor,0,0,0,17.66,1,0,1,31.7
+195,Arua,9,Primary,Livestock Rearing,0,1,0,28,0,0,0,42.57
+196,Jinja,9,Primary,Small Business,1,0,1,21.95,0,0,1,42.67
+197,Fort Portal,7,Primary,Small Business,1,1,0,12.01,1,1,0,18.28
+198,Mbarara,4,Primary,Subsistence Farming,1,0,0,9.52,0,0,0,40.37
+199,Gulu,9,Primary,Casual Labor,0,1,0,24.77,1,0,1,28.61
+200,Arua,5,None,Small Business,0,1,0,11.87,0,0,1,47.44
+201,Arua,5,Primary,Subsistence Farming,1,1,0,30.56,0,0,0,42.62
+202,Kampala,6,Primary,Small Business,1,1,0,45.77,0,1,0,32.18
+203,Masaka,7,Secondary,Subsistence Farming,0,0,0,23.41,0,0,1,47.96
+204,Arua,6,Secondary,Subsistence Farming,0,0,1,43.89,1,1,0,22.42
+205,Lira,7,Primary,Casual Labor,0,1,0,46.8,1,0,0,37.79
+206,Mbarara,8,Primary,Small Business,1,1,0,30.35,1,0,0,37.51
+207,Mbarara,8,Tertiary,Casual Labor,1,1,1,29.63,0,0,1,44.18
+208,Lira,9,Secondary,Subsistence Farming,0,1,0,35.45,0,0,0,37.78
+209,Hoima,3,Tertiary,Livestock Rearing,1,1,0,7.85,0,0,0,43.45
+210,Lira,8,Secondary,Small Business,1,0,0,30.88,0,0,1,46.63
+211,Lira,3,Primary,Livestock Rearing,1,0,1,28.37,1,0,1,35.78
+212,Mbarara,8,Primary,Small Business,1,1,0,12.13,1,1,1,26.73
+213,Mbale,2,Primary,Casual Labor,1,0,0,35.51,0,0,1,41.67
+214,Mbarara,8,Primary,Casual Labor,0,0,0,40.29,0,0,0,37.33
+215,Masaka,6,Primary,Casual Labor,0,1,0,12.05,0,0,0,41.95
+216,Kampala,4,Primary,Casual Labor,1,1,0,2.46,0,0,0,47.61
+217,Jinja,9,Primary,Casual Labor,0,1,1,26.55,1,0,1,33.1
+218,Mbale,6,Secondary,Livestock Rearing,0,1,1,9.51,0,0,1,48
+219,Gulu,4,Secondary,Casual Labor,1,1,0,2.52,0,0,1,40.81
+220,Jinja,5,Primary,Subsistence Farming,1,1,0,21.46,0,1,1,42.37
+221,Kampala,6,Secondary,Subsistence Farming,1,0,1,28.45,1,1,0,22.23
+222,Masaka,5,Primary,Livestock Rearing,1,1,0,37.87,0,1,0,30.53
+223,Masaka,3,Secondary,Small Business,0,0,0,18.86,1,0,1,37.81
+224,Gulu,3,None,Subsistence Farming,0,1,0,11.44,1,0,1,39
+225,Mbale,2,Tertiary,Small Business,1,0,1,17.07,1,1,1,28.44
+226,Hoima,8,Secondary,Livestock Rearing,1,1,1,25.54,0,1,1,26.96
+227,Lira,6,Primary,Small Business,0,0,0,33.9,0,0,1,51.64
+228,Mbale,5,Primary,Small Business,1,1,0,32.17,1,0,1,41.18
+229,Hoima,4,Primary,Small Business,1,0,0,26.92,0,0,0,42.27
+230,Masaka,3,Primary,Small Business,1,1,1,13.52,1,0,0,27.42
+231,Mbarara,8,Primary,Livestock Rearing,0,1,0,28.55,0,0,1,53.9
+232,Kampala,3,Secondary,Subsistence Farming,1,1,1,34.75,0,0,0,44.52
+233,Gulu,4,Primary,Casual Labor,1,0,0,44.83,0,0,1,46.63
+234,Kampala,8,Secondary,Small Business,1,1,0,1.14,0,0,1,44.6
+235,Fort Portal,8,Tertiary,Subsistence Farming,0,0,0,29.59,0,1,1,33.83
+236,Fort Portal,5,Primary,Subsistence Farming,1,1,0,31.46,1,0,1,39.93
+237,Mbale,5,Primary,Livestock Rearing,0,0,0,11.44,1,1,0,25.08
+238,Masaka,6,None,Subsistence Farming,0,1,0,28.42,1,0,1,33.21
+239,Masaka,6,Secondary,Livestock Rearing,0,1,0,37.44,0,0,1,43.84
+240,Lira,7,Primary,Small Business,1,0,1,41.75,0,0,0,40.7
+241,Lira,9,Tertiary,Small Business,0,0,0,33.27,0,1,1,38.16
+242,Lira,7,Secondary,Casual Labor,1,1,0,48.78,0,0,0,49.6
+243,Mbarara,2,Primary,Casual Labor,1,0,1,41.83,1,0,0,30.92
+244,Jinja,3,Primary,Casual Labor,1,1,0,20.33,0,0,0,42.06
+245,Arua,6,Secondary,Subsistence Farming,1,0,1,43.65,0,0,0,42.73
+246,Jinja,5,Secondary,Small Business,0,0,0,11.4,0,0,0,43.29
+247,Kampala,4,Primary,Livestock Rearing,1,1,1,35.56,1,0,1,28.08
+248,Jinja,5,Primary,Casual Labor,0,0,0,9.21,1,0,0,36.39
+249,Mbarara,3,Secondary,Livestock Rearing,1,0,0,48.62,0,0,1,38.13
+250,Kampala,7,Primary,Livestock Rearing,1,1,1,32.4,0,0,0,48.1
+251,Jinja,5,Tertiary,Casual Labor,1,1,0,37.51,1,0,1,44.23
+252,Mbarara,9,Primary,Small Business,0,1,0,31.24,0,0,0,43.83
+253,Arua,2,None,Casual Labor,0,1,0,22.48,0,0,1,46.3
+254,Jinja,3,Secondary,Livestock Rearing,1,1,0,18.09,1,0,1,29.59
+255,Mbarara,7,Primary,Casual Labor,1,0,0,14.75,0,0,0,49.96
+256,Lira,9,Primary,Livestock Rearing,0,0,0,39.75,1,0,0,34.11
+257,Masaka,4,Primary,Livestock Rearing,1,1,0,12.32,0,0,0,47.52
+258,Lira,7,None,Casual Labor,0,0,0,42.9,0,0,0,42.64
+259,Masaka,8,Secondary,Subsistence Farming,0,1,0,38.05,0,0,0,41.66
+260,Gulu,9,Primary,Casual Labor,1,1,1,20.98,1,1,0,22.82
+261,Gulu,9,Primary,Subsistence Farming,0,1,0,32.44,0,1,1,32.8
+262,Gulu,2,Secondary,Livestock Rearing,0,1,0,40.65,0,0,1,36.92
+263,Arua,3,Secondary,Livestock Rearing,1,0,1,1.82,0,0,0,44.56
+264,Lira,4,Primary,Subsistence Farming,1,0,0,14.27,0,0,0,35.47
+265,Masaka,2,Primary,Livestock Rearing,1,1,0,48.56,1,0,0,30.1
+266,Mbarara,7,Tertiary,Subsistence Farming,1,1,0,20.91,0,0,1,51.53
+267,Kampala,2,Secondary,Subsistence Farming,1,1,0,35.15,0,0,1,45.21
+268,Mbarara,9,Primary,Livestock Rearing,0,1,0,9.94,0,1,0,36.62
+269,Kampala,3,Primary,Small Business,1,1,0,19.12,0,0,0,53.75
+270,Fort Portal,6,Primary,Subsistence Farming,1,1,0,40.35,0,0,1,44.98
+271,Mbarara,2,Secondary,Casual Labor,0,0,0,23.9,0,0,1,38.46
+272,Jinja,8,Secondary,Casual Labor,0,1,1,45.06,1,0,1,32.63
+273,Jinja,2,Secondary,Livestock Rearing,1,0,0,1.83,0,0,1,46.43
+274,Mbale,7,Secondary,Small Business,1,0,0,27.85,1,0,0,36.91
+275,Lira,7,Secondary,Livestock Rearing,0,0,0,40.41,0,1,0,36.97
+276,Kampala,4,Primary,Small Business,0,1,0,20.92,1,0,0,45.96
+277,Kampala,7,Primary,Subsistence Farming,0,1,0,14.47,0,0,1,46.46
+278,Lira,5,Primary,Subsistence Farming,0,1,0,13.23,1,0,0,42.19
+279,Arua,3,Primary,Subsistence Farming,1,1,0,19.05,1,0,0,40.48
+280,Mbale,3,Secondary,Subsistence Farming,0,0,0,37.34,1,0,0,37.43
+281,Arua,6,Primary,Casual Labor,0,0,1,9.74,0,0,1,47.47
+282,Arua,6,Primary,Casual Labor,1,1,0,29.8,0,0,1,45.11
+283,Arua,3,Primary,Livestock Rearing,1,0,0,2.08,1,0,0,39.44
+284,Lira,8,Primary,Small Business,0,1,0,5.93,1,0,0,37.86
+285,Arua,6,Primary,Subsistence Farming,1,1,0,11.43,0,0,1,40.52
+286,Jinja,4,Primary,Subsistence Farming,0,0,1,27.28,1,0,1,27.57
+287,Gulu,7,Secondary,Small Business,0,1,0,38.64,0,0,0,41.56
+288,Fort Portal,3,Primary,Small Business,1,1,0,7.5,1,0,1,36.75
+289,Kampala,9,Secondary,Livestock Rearing,1,1,1,29.31,0,1,1,35.41
+290,Kampala,6,None,Small Business,0,0,0,36.24,0,0,1,47.45
+291,Fort Portal,3,Primary,Subsistence Farming,0,0,0,42.53,0,0,0,42.88
+292,Lira,5,Primary,Subsistence Farming,1,0,0,12.76,0,0,1,52.54
+293,Mbarara,2,Primary,Subsistence Farming,1,1,1,7.76,0,1,0,36.43
+294,Lira,7,Secondary,Subsistence Farming,1,0,0,31.26,0,0,1,42.74
+295,Kampala,3,Primary,Subsistence Farming,1,1,0,18.97,0,1,0,28.88
+296,Kampala,2,Primary,Livestock Rearing,1,0,0,31.45,0,0,0,34.61
+297,Fort Portal,6,Secondary,Subsistence Farming,0,1,0,13.05,1,0,0,31.47
+298,Arua,2,None,Livestock Rearing,1,1,1,12.46,1,0,1,33.36
+299,Lira,7,Primary,Subsistence Farming,0,1,0,38.4,0,0,1,40.54
+300,Masaka,3,Secondary,Casual Labor,1,0,0,14.81,0,0,0,37.9
+301,Fort Portal,5,Secondary,Casual Labor,0,0,0,47.71,1,0,0,28.11
+302,Jinja,8,Primary,Casual Labor,1,1,0,37.13,0,0,1,37.05
+303,Kampala,6,Tertiary,Casual Labor,0,1,0,47.38,0,0,1,46.65
+304,Fort Portal,3,Secondary,Livestock Rearing,1,0,0,32.48,0,0,0,48.73
+305,Lira,7,Primary,Livestock Rearing,0,1,1,39.35,0,0,0,46.57
+306,Kampala,6,Secondary,Small Business,1,0,0,19.94,0,0,0,42.73
+307,Mbarara,4,Primary,Subsistence Farming,1,0,0,49.62,1,0,0,35.99
+308,Fort Portal,2,Primary,Casual Labor,0,0,0,14.15,0,0,0,45.87
+309,Mbale,8,Primary,Livestock Rearing,1,1,0,5.17,0,1,0,39.07
+310,Kampala,7,Primary,Subsistence Farming,1,0,1,43.76,0,0,1,39.57
+311,Lira,4,Secondary,Subsistence Farming,0,1,0,28.23,1,1,1,23.63
+312,Gulu,9,Primary,Livestock Rearing,0,0,0,21.09,0,0,0,45.04
+313,Masaka,3,Secondary,Casual Labor,1,0,1,16.56,0,1,1,31.14
+314,Hoima,5,Secondary,Small Business,1,1,0,47.93,0,1,1,41.05
+315,Arua,6,None,Subsistence Farming,0,1,1,45.99,0,0,1,40.79
+316,Hoima,2,Secondary,Small Business,1,1,1,43.48,0,0,0,44.61
+317,Lira,6,Primary,Casual Labor,0,1,0,32.36,0,0,1,43.66
+318,Jinja,8,Primary,Casual Labor,1,1,1,12.39,1,1,1,27.81
+319,Jinja,3,Secondary,Small Business,0,0,0,43.26,0,1,1,31.9
+320,Gulu,6,Primary,Casual Labor,0,1,0,45.5,0,1,0,41.13
+321,Arua,2,Primary,Subsistence Farming,0,1,0,17.04,0,1,0,33.19
+322,Mbale,3,Primary,Small Business,1,0,1,32.09,0,0,1,43.67
+323,Gulu,6,None,Casual Labor,1,1,0,1.03,0,1,1,33.42
+324,Hoima,5,Primary,Small Business,1,1,1,39.48,0,0,1,44.54
+325,Gulu,7,Primary,Subsistence Farming,0,0,0,36.11,0,0,0,40.7
+326,Hoima,3,Tertiary,Casual Labor,1,0,0,10.78,0,1,0,34.56
+327,Kampala,7,Primary,Subsistence Farming,1,1,0,12.98,0,1,0,34.64
+328,Jinja,9,Primary,Casual Labor,1,1,0,24.44,0,0,0,40.84
+329,Kampala,3,Primary,Livestock Rearing,0,1,1,33.28,0,0,1,51.83
+330,Masaka,5,None,Casual Labor,0,0,1,36.91,0,1,1,42.91
+331,Arua,7,Tertiary,Small Business,1,1,0,2.05,0,0,0,39.66
+332,Mbale,4,Secondary,Casual Labor,0,0,0,2.9,1,0,1,41.2
+333,Hoima,2,Secondary,Subsistence Farming,1,1,1,29.52,1,0,1,37.77
+334,Mbale,4,Primary,Subsistence Farming,1,1,0,11.72,0,0,0,36.42
+335,Hoima,6,Primary,Casual Labor,0,0,1,22.36,1,0,0,39.19
+336,Lira,5,Primary,Small Business,0,0,0,1.97,0,0,0,38.73
+337,Gulu,4,Secondary,Livestock Rearing,1,0,0,25.02,0,1,1,27.72
+338,Masaka,3,None,Small Business,0,1,1,1.55,1,0,0,38.79
+339,Jinja,6,Primary,Livestock Rearing,0,0,0,49.47,0,0,0,48.26
+340,Hoima,6,Tertiary,Subsistence Farming,0,0,0,8.48,0,0,0,43.99
+341,Mbale,4,Primary,Small Business,1,0,0,40.56,0,0,1,45.04
+342,Masaka,9,Primary,Livestock Rearing,0,0,1,18.62,0,0,0,40.39
+343,Mbarara,4,Primary,Casual Labor,1,0,1,13.5,0,0,0,43.71
+344,Mbarara,9,Tertiary,Subsistence Farming,1,1,0,7.58,0,0,0,50.87
+345,Kampala,5,None,Casual Labor,0,1,0,43.69,0,1,0,27.97
+346,Jinja,2,Secondary,Subsistence Farming,0,1,0,16.79,0,0,0,44.1
+347,Lira,4,Secondary,Small Business,1,0,0,37.25,0,0,1,46.73
+348,Mbale,8,Primary,Small Business,1,0,1,6.52,0,0,0,45.05
+349,Gulu,9,Secondary,Subsistence Farming,1,0,0,49.09,0,0,0,42.77
+350,Gulu,4,None,Subsistence Farming,0,1,1,29.33,0,0,1,49.68
+351,Mbale,7,Primary,Subsistence Farming,1,0,0,39.89,1,0,0,32.97
+352,Arua,3,Secondary,Small Business,0,0,0,1.33,0,1,1,38.63
+353,Lira,8,Secondary,Livestock Rearing,1,0,0,34.02,0,0,0,41.24
+354,Masaka,8,Secondary,Casual Labor,0,0,0,45.15,1,0,1,39.29
+355,Hoima,9,Primary,Casual Labor,1,0,0,26.64,0,1,0,35.2
+356,Arua,7,Primary,Small Business,0,1,1,42.14,0,0,1,47.24
+357,Hoima,7,None,Casual Labor,1,1,0,26.41,0,0,1,39.55
+358,Hoima,6,Primary,Subsistence Farming,0,1,0,48.71,0,1,1,41.46
+359,Arua,9,Primary,Livestock Rearing,1,0,0,7.68,0,0,0,38.64
+360,Kampala,2,Primary,Casual Labor,1,1,0,46.44,1,1,0,26.29
+361,Mbarara,3,Primary,Livestock Rearing,1,0,1,29.78,0,0,0,44.94
+362,Hoima,5,Primary,Subsistence Farming,1,1,0,44.67,1,0,1,37.67
+363,Arua,8,Primary,Casual Labor,1,1,0,7.15,0,0,0,42.8
+364,Arua,5,Primary,Small Business,0,1,1,45.78,0,0,0,47.68
+365,Fort Portal,4,Secondary,Livestock Rearing,1,1,0,25.13,0,0,0,52.72
+366,Kampala,4,Primary,Subsistence Farming,1,0,0,23.42,1,0,0,36.74
+367,Jinja,5,Tertiary,Livestock Rearing,1,0,0,28.91,0,0,1,43.31
+368,Fort Portal,4,Secondary,Casual Labor,0,0,1,43.93,0,1,0,30.91
+369,Fort Portal,2,Primary,Casual Labor,0,1,1,41.89,0,0,1,45.5
+370,Mbale,7,Secondary,Small Business,0,0,0,7.09,0,0,1,42.77
+371,Mbarara,4,Primary,Subsistence Farming,0,0,1,1.58,1,1,0,29.17
+372,Arua,6,Primary,Subsistence Farming,0,1,0,26.13,0,1,1,38.16
+373,Mbarara,4,Primary,Small Business,0,0,1,49.52,0,0,1,45.23
+374,Lira,3,Primary,Small Business,0,0,1,25.86,0,1,0,31.9
+375,Mbale,2,Primary,Subsistence Farming,0,1,1,8.1,1,0,0,35.42
+376,Jinja,3,Primary,Livestock Rearing,1,0,1,22.29,1,0,1,35.55
+377,Mbarara,3,Secondary,Livestock Rearing,1,1,1,19.06,1,0,0,36.02
+378,Gulu,6,Secondary,Small Business,1,1,0,47.8,1,1,0,14.96
+379,Hoima,2,Primary,Livestock Rearing,0,1,1,47.55,0,1,1,37.36
+380,Lira,2,Secondary,Subsistence Farming,0,1,1,4.53,1,0,0,29.43
+381,Kampala,9,Primary,Casual Labor,0,1,1,12.44,0,0,1,44.95
+382,Jinja,2,Primary,Casual Labor,0,0,1,23.44,0,1,0,38.44
+383,Lira,2,Secondary,Livestock Rearing,1,1,0,28.89,0,0,1,42.83
+384,Hoima,2,Primary,Small Business,0,1,0,10.26,0,0,0,43.74
+385,Mbale,6,None,Small Business,1,1,0,29.67,1,1,0,20.38
+386,Hoima,4,Primary,Small Business,1,0,0,10.98,0,0,1,41.13
+387,Fort Portal,9,Primary,Small Business,1,0,0,21.63,0,1,0,41.48
+388,Hoima,3,Tertiary,Small Business,1,1,0,26.65,0,1,1,44.71
+389,Fort Portal,2,Primary,Livestock Rearing,0,1,0,48.79,0,0,1,36.98
+390,Mbale,8,Tertiary,Casual Labor,0,1,0,4.37,0,0,0,47.09
+391,Masaka,4,Primary,Casual Labor,1,0,0,46.38,1,0,0,37.58
+392,Fort Portal,4,Primary,Livestock Rearing,0,1,0,7.68,1,0,0,30.01
+393,Kampala,3,Primary,Small Business,0,0,0,5.75,1,1,1,25.85
+394,Hoima,6,Secondary,Livestock Rearing,0,1,0,15.42,1,0,0,39.68
+395,Hoima,5,Primary,Casual Labor,1,0,0,28.61,0,1,0,39.89
+396,Kampala,5,Secondary,Subsistence Farming,1,1,0,21.38,0,1,0,28.64
+397,Gulu,4,Secondary,Livestock Rearing,1,0,0,26.6,1,0,0,35.04
+398,Arua,7,Primary,Small Business,1,0,0,39.16,0,0,0,47.01
+399,Masaka,7,Tertiary,Casual Labor,1,1,0,41.71,1,0,1,37.16
+400,Jinja,3,Secondary,Casual Labor,1,0,1,48.15,1,0,0,23.83
+401,Fort Portal,5,Secondary,Casual Labor,1,1,0,46.38,0,0,1,50.71
+402,Kampala,4,Primary,Casual Labor,1,1,1,10.38,0,0,1,44.89
+403,Mbale,6,Primary,Small Business,0,1,0,36.09,0,0,1,43.98
+404,Fort Portal,5,Primary,Subsistence Farming,0,1,0,37.73,0,0,0,49.3
+405,Arua,4,Primary,Casual Labor,0,1,0,24.45,0,0,1,40.68
+406,Mbale,4,None,Livestock Rearing,0,1,1,44.39,0,1,0,29.75
+407,Lira,2,Secondary,Subsistence Farming,1,0,0,38.16,1,0,0,31.03
+408,Hoima,6,Primary,Casual Labor,1,1,0,20.7,0,0,1,52.7
+409,Lira,2,Primary,Subsistence Farming,1,0,1,21.68,0,0,0,43.14
+410,Fort Portal,3,Tertiary,Livestock Rearing,1,0,0,19.32,0,0,0,50.43
+411,Arua,2,Secondary,Casual Labor,0,1,0,25.81,1,0,0,41.42
+412,Masaka,8,Primary,Livestock Rearing,0,0,0,36.86,0,0,0,41.08
+413,Fort Portal,2,Secondary,Small Business,1,0,0,16.57,0,0,0,44.68
+414,Kampala,8,None,Casual Labor,0,1,1,12.18,0,0,0,51.92
+415,Mbarara,5,None,Casual Labor,1,0,0,2.67,1,0,1,37.39
+416,Fort Portal,7,Secondary,Casual Labor,1,0,0,40.06,0,1,1,31.04
+417,Hoima,9,Primary,Casual Labor,0,0,0,18.75,1,0,1,38.85
+418,Hoima,9,Primary,Small Business,0,1,0,37.93,0,0,0,36.85
+419,Fort Portal,4,Primary,Casual Labor,1,1,0,6.47,1,1,1,25.92
+420,Mbale,9,Primary,Subsistence Farming,1,0,0,27.07,0,0,0,42.41
+421,Mbarara,8,Primary,Casual Labor,1,0,0,20.53,0,0,0,38.65
+422,Kampala,6,Primary,Small Business,0,1,0,24.25,0,0,1,45.2
+423,Fort Portal,2,Secondary,Casual Labor,1,0,0,46.34,0,0,0,46.54
+424,Mbale,8,Secondary,Subsistence Farming,1,1,0,4.19,0,0,1,44.12
+425,Hoima,6,Primary,Small Business,1,0,1,21.58,0,0,1,44.73
+426,Hoima,7,Primary,Small Business,0,1,0,41.61,0,1,0,25.97
+427,Arua,9,Primary,Subsistence Farming,1,1,0,31.29,1,0,0,34.14
+428,Fort Portal,7,None,Subsistence Farming,0,1,0,49.16,1,0,0,28.24
+429,Mbarara,9,Secondary,Subsistence Farming,1,1,0,37.45,0,0,1,50.91
+430,Gulu,2,Primary,Subsistence Farming,0,1,0,5.66,1,0,1,28.18
+431,Mbarara,3,Primary,Subsistence Farming,1,0,0,19.52,1,0,0,32.04
+432,Hoima,2,Secondary,Small Business,0,0,0,17.12,0,0,0,42.27
+433,Hoima,5,Secondary,Small Business,1,1,0,25.04,0,0,1,38.12
+434,Lira,8,Secondary,Casual Labor,0,0,1,31.45,0,0,0,51.65
+435,Hoima,4,Primary,Casual Labor,0,1,1,13.34,1,0,1,39.73
+436,Kampala,3,Primary,Livestock Rearing,1,0,0,31.8,0,0,0,45.02
+437,Jinja,2,Primary,Casual Labor,1,1,1,13.93,1,0,1,35.58
+438,Fort Portal,6,Primary,Casual Labor,1,1,0,7.09,0,0,0,42.43
+439,Mbarara,3,Secondary,Subsistence Farming,1,0,0,26.11,0,0,0,45.73
+440,Jinja,8,Secondary,Subsistence Farming,0,1,1,24.92,0,1,1,27.97
+441,Mbale,9,Secondary,Casual Labor,1,0,0,20.92,0,0,1,44.04
+442,Gulu,3,Secondary,Livestock Rearing,1,1,0,27.06,0,0,0,38.71
+443,Kampala,9,Primary,Subsistence Farming,0,0,0,25.5,0,0,1,37.95
+444,Mbarara,8,Secondary,Casual Labor,1,1,0,29.65,1,0,1,35.65
+445,Jinja,2,Primary,Casual Labor,1,0,1,48.38,1,0,1,38.68
+446,Gulu,8,Primary,Small Business,1,0,1,35.62,0,0,1,48.56
+447,Lira,3,Primary,Livestock Rearing,0,0,0,43.4,0,0,1,44.75
+448,Kampala,6,Primary,Small Business,0,0,0,25.38,1,0,0,34.37
+449,Kampala,7,Primary,Livestock Rearing,1,1,0,34.93,0,0,0,39.87
+450,Lira,3,Tertiary,Subsistence Farming,1,0,0,4.18,0,0,1,44.26
+451,Fort Portal,8,Primary,Livestock Rearing,1,0,0,40.87,0,0,1,41.15
+452,Lira,7,Primary,Casual Labor,1,0,0,47.36,0,0,1,39.16
+453,Kampala,8,Primary,Casual Labor,1,0,1,48.72,0,0,1,48.03
+454,Kampala,6,Secondary,Livestock Rearing,0,1,0,10.07,0,0,1,42.65
+455,Jinja,8,Primary,Livestock Rearing,1,0,1,48.27,0,0,0,33.74
+456,Hoima,2,Secondary,Livestock Rearing,0,0,0,27.58,0,1,0,38.71
+457,Gulu,4,Primary,Small Business,0,1,1,42.85,0,0,1,41.82
+458,Lira,9,Secondary,Livestock Rearing,1,1,1,37.75,0,0,0,48.16
+459,Gulu,9,Primary,Subsistence Farming,1,0,0,45.41,0,0,1,41.99
+460,Lira,3,Secondary,Small Business,0,0,0,31.13,1,0,0,34.97
+461,Mbale,4,Secondary,Small Business,1,1,0,17,1,1,1,27.18
+462,Kampala,8,Primary,Livestock Rearing,1,1,1,38.25,0,0,1,39.96
+463,Hoima,6,None,Subsistence Farming,1,0,0,15.09,1,0,1,38.61
+464,Jinja,3,None,Small Business,1,1,0,14.05,0,0,1,45.39
+465,Hoima,8,Primary,Casual Labor,1,1,1,9.38,1,0,1,40.43
+466,Hoima,7,Primary,Small Business,1,1,0,4.79,1,0,0,29.25
+467,Hoima,5,Secondary,Livestock Rearing,1,0,1,40.43,0,1,0,39.26
+468,Gulu,8,Primary,Subsistence Farming,0,0,0,15.81,1,1,1,26.34
+469,Lira,4,Primary,Livestock Rearing,1,1,0,20.51,0,0,0,46.92
+470,Masaka,3,Primary,Casual Labor,0,0,0,38.97,0,0,1,46.28
+471,Mbale,4,Primary,Casual Labor,1,0,0,2.75,0,0,0,49.43
+472,Mbarara,3,Secondary,Casual Labor,1,0,0,17.2,0,0,1,50.84
+473,Hoima,8,Primary,Livestock Rearing,1,0,0,46.13,0,0,1,46.9
+474,Fort Portal,2,Secondary,Small Business,0,0,0,10.95,0,1,0,34.14
+475,Gulu,7,Secondary,Livestock Rearing,1,1,0,5.09,0,0,0,40.22
+476,Jinja,8,Secondary,Subsistence Farming,0,0,0,48.56,0,0,1,45.2
+477,Mbarara,9,Secondary,Small Business,0,0,0,34.05,0,0,1,38.8
+478,Masaka,4,Primary,Casual Labor,0,0,0,41.08,0,0,1,44.71
+479,Fort Portal,5,Tertiary,Livestock Rearing,0,1,1,8.98,0,0,1,36.21
+480,Masaka,5,Primary,Casual Labor,1,0,0,1.56,0,0,1,40.43
+481,Mbarara,6,Primary,Casual Labor,1,0,0,28.48,0,0,0,36.27
+482,Hoima,3,Secondary,Subsistence Farming,1,0,1,33.34,0,1,0,31.49
+483,Fort Portal,4,Tertiary,Small Business,1,1,1,11.96,0,0,0,44.05
+484,Masaka,6,Secondary,Subsistence Farming,1,1,0,1.93,0,0,1,45.14
+485,Jinja,4,None,Subsistence Farming,0,1,1,48.49,0,0,1,53.79
+486,Lira,9,Primary,Subsistence Farming,1,1,0,18.93,1,1,1,27.27
+487,Kampala,3,Tertiary,Casual Labor,1,1,1,36.21,0,0,1,40.19
+488,Lira,8,Primary,Subsistence Farming,1,1,0,24.12,1,0,0,36.38
+489,Mbarara,8,Secondary,Subsistence Farming,0,1,0,13.59,0,0,0,44.09
+490,Gulu,5,Secondary,Small Business,0,0,1,47.72,1,1,0,17.4
+491,Kampala,8,Primary,Small Business,1,1,0,27.98,0,0,0,43.36
+492,Mbale,8,Primary,Subsistence Farming,0,0,1,17.67,0,0,0,48.32
+493,Jinja,9,Primary,Small Business,1,0,1,37.09,0,1,1,33.35
+494,Mbale,2,Primary,Small Business,0,0,0,31.44,0,0,0,47.7
+495,Fort Portal,5,Secondary,Subsistence Farming,1,0,0,35.49,1,0,1,37.17
+496,Kampala,6,Primary,Casual Labor,0,0,0,41.68,1,1,1,23.82
+497,Mbale,7,Secondary,Subsistence Farming,1,0,0,8.96,0,0,0,40.63
+498,Mbale,2,Primary,Small Business,0,1,1,4,1,0,1,36.85
+499,Masaka,6,Tertiary,Casual Labor,1,1,1,23.68,0,0,1,37.12
+500,Lira,3,Primary,Livestock Rearing,1,0,0,2.1,0,0,0,42.71
+501,Masaka,2,None,Casual Labor,0,1,1,11.28,0,0,0,47.32
+502,Kampala,9,None,Small Business,0,0,1,9.12,0,0,0,37.37
+503,Kampala,6,Secondary,Casual Labor,1,1,1,38.5,1,0,1,39.75
+504,Mbarara,3,Secondary,Subsistence Farming,1,1,0,39.38,0,0,1,47.6
+505,Masaka,5,Secondary,Livestock Rearing,0,0,0,7.53,0,1,1,39.43
+506,Arua,7,Primary,Livestock Rearing,0,0,0,16.28,0,0,1,41.58
+507,Lira,3,None,Livestock Rearing,1,1,1,35.79,0,0,0,45.06
+508,Kampala,8,Primary,Small Business,1,0,0,10.94,0,0,0,38.78
+509,Mbarara,4,Primary,Small Business,1,0,0,18.04,1,0,0,30.64
+510,Masaka,3,Primary,Livestock Rearing,0,0,0,19,0,1,1,29.8
+511,Lira,3,Tertiary,Casual Labor,1,0,1,4.52,0,0,0,47.52
+512,Masaka,7,Tertiary,Livestock Rearing,0,1,0,10.72,0,0,0,46.18
+513,Mbale,4,Tertiary,Casual Labor,0,0,0,11.58,0,0,0,42.51
+514,Mbarara,8,Secondary,Casual Labor,1,1,1,36.78,0,0,1,51.59
+515,Lira,6,Primary,Small Business,1,1,0,15.12,1,0,1,38.43
+516,Hoima,6,Primary,Casual Labor,1,0,0,37.38,0,0,1,43.92
+517,Fort Portal,3,Primary,Livestock Rearing,0,0,0,26.31,1,0,1,36.41
+518,Fort Portal,9,Secondary,Small Business,0,1,1,4.96,1,0,1,33.42
+519,Lira,9,None,Subsistence Farming,0,0,0,11.72,0,0,1,33.42
+520,Masaka,4,Primary,Subsistence Farming,0,1,0,3.2,0,0,0,45.14
+521,Mbarara,4,None,Small Business,0,1,0,48.32,0,0,1,42.88
+522,Fort Portal,8,Primary,Livestock Rearing,1,0,0,41.47,0,0,1,42.62
+523,Mbarara,7,Secondary,Subsistence Farming,0,0,1,14.16,1,0,1,38.32
+524,Fort Portal,5,Secondary,Subsistence Farming,1,1,0,18.25,0,0,1,46.11
+525,Mbale,6,Primary,Casual Labor,0,0,0,35.77,1,0,1,33.77
+526,Masaka,7,Tertiary,Casual Labor,1,0,0,23.36,0,0,0,55.67
+527,Mbale,2,Secondary,Livestock Rearing,0,1,0,30.4,0,1,1,38.37
+528,Fort Portal,6,None,Small Business,1,0,0,2.29,0,0,0,39.93
+529,Hoima,7,Primary,Livestock Rearing,1,0,0,46.31,0,1,0,40.02
+530,Hoima,6,Primary,Small Business,1,1,1,13.67,1,1,1,25.56
+531,Mbale,5,None,Subsistence Farming,1,1,1,33.17,1,1,1,17.82
+532,Hoima,2,Tertiary,Casual Labor,1,0,0,47.55,0,0,0,40.44
+533,Fort Portal,9,Primary,Livestock Rearing,0,0,0,33.37,0,0,1,40.46
+534,Lira,9,Secondary,Livestock Rearing,0,0,0,37.95,1,0,1,43.97
+535,Mbale,5,Primary,Small Business,1,1,0,48.34,0,0,0,34.75
+536,Gulu,8,Primary,Small Business,1,0,1,34.03,0,0,0,46.07
+537,Masaka,2,Primary,Livestock Rearing,0,1,0,25.8,0,0,1,42.93
+538,Hoima,3,Primary,Small Business,0,0,0,27.03,1,1,0,27.58
+539,Hoima,7,Primary,Livestock Rearing,0,1,1,3.04,1,0,1,36.24
+540,Kampala,2,Tertiary,Livestock Rearing,1,1,1,5.06,0,1,0,39.84
+541,Arua,8,Primary,Livestock Rearing,1,1,0,28.45,0,0,0,42.37
+542,Mbale,8,Secondary,Subsistence Farming,0,0,1,27.29,0,1,1,29.11
+543,Jinja,5,Primary,Small Business,1,0,0,25.88,1,0,1,34.85
+544,Hoima,6,None,Casual Labor,1,1,0,7.84,0,0,1,48.74
+545,Masaka,2,Primary,Casual Labor,1,0,0,46.51,1,0,0,39.29
+546,Gulu,7,Primary,Small Business,1,0,0,45.48,0,0,0,46.03
+547,Hoima,2,None,Livestock Rearing,1,0,0,15.61,0,0,1,49.53
+548,Gulu,4,Primary,Casual Labor,1,1,0,20.67,1,1,0,29.07
+549,Fort Portal,6,Primary,Casual Labor,0,1,1,19.87,0,1,1,41.94
+550,Fort Portal,7,Primary,Small Business,1,1,0,11.99,1,0,0,41.04
+551,Arua,9,Primary,Casual Labor,1,1,0,17.2,0,0,1,42.02
+552,Lira,7,Primary,Livestock Rearing,0,1,0,49.7,0,0,0,44.08
+553,Jinja,3,Tertiary,Small Business,1,1,1,28.94,0,0,1,48.15
+554,Kampala,5,Secondary,Livestock Rearing,1,1,1,45.04,0,0,1,47.51
+555,Arua,3,Primary,Casual Labor,0,1,0,36.88,0,0,0,40.96
+556,Mbarara,7,None,Casual Labor,1,0,0,44.02,1,0,0,32.63
+557,Kampala,6,Tertiary,Livestock Rearing,0,0,0,18.92,0,0,0,50.35
+558,Mbale,2,Secondary,Subsistence Farming,0,0,0,32.46,0,0,0,48.16
+559,Masaka,9,Primary,Casual Labor,0,1,0,19.22,1,0,1,40.59
+560,Mbarara,2,Secondary,Subsistence Farming,1,1,0,41.05,1,1,1,27.34
+561,Mbarara,6,Primary,Casual Labor,1,0,0,38.54,1,1,0,22.58
+562,Arua,7,Primary,Subsistence Farming,1,1,0,39.26,0,1,1,35.16
+563,Lira,8,Secondary,Subsistence Farming,0,1,0,10.61,0,0,0,40.35
+564,Arua,2,Primary,Subsistence Farming,1,0,1,43.05,1,1,1,25.78
+565,Mbale,8,Tertiary,Livestock Rearing,1,0,0,49.9,1,0,0,33.19
+566,Hoima,2,Secondary,Subsistence Farming,1,1,0,41.69,0,1,1,37.32
+567,Hoima,2,Primary,Subsistence Farming,0,0,0,24.67,1,0,0,37.53
+568,Lira,9,Primary,Subsistence Farming,0,1,1,15.97,0,0,1,49.32
+569,Mbale,5,None,Casual Labor,1,1,0,7.37,0,0,0,48.37
+570,Lira,5,Primary,Subsistence Farming,1,1,0,21.16,0,0,0,46.65
+571,Gulu,4,Secondary,Casual Labor,1,1,0,14.22,1,1,0,23.63
+572,Hoima,3,Primary,Subsistence Farming,0,0,0,22.17,0,0,0,46.39
+573,Mbarara,6,Primary,Subsistence Farming,1,1,1,3.6,1,0,0,30.12
+574,Jinja,6,Secondary,Livestock Rearing,1,0,0,15.38,0,0,1,50.71
+575,Masaka,6,Primary,Casual Labor,1,0,0,48.1,0,1,1,33.69
+576,Mbale,4,Secondary,Subsistence Farming,1,0,0,6.85,0,0,1,53.54
+577,Kampala,5,None,Casual Labor,0,0,0,4.62,0,1,0,34.71
+578,Lira,7,Tertiary,Casual Labor,1,0,0,34.78,0,0,0,35.71
+579,Masaka,8,Primary,Small Business,0,1,1,41.58,0,1,1,31.81
+580,Kampala,9,Primary,Livestock Rearing,1,0,0,5.74,0,1,1,39.53
+581,Masaka,8,Primary,Livestock Rearing,0,1,0,47.89,1,0,1,34.23
+582,Jinja,7,Primary,Livestock Rearing,1,1,0,2.8,0,0,1,45.48
+583,Kampala,9,Secondary,Small Business,0,1,0,43.92,0,0,0,48.42
+584,Arua,4,Secondary,Small Business,1,1,0,41.71,1,0,0,38.89
+585,Fort Portal,7,Secondary,Livestock Rearing,1,1,1,33.75,0,1,1,32.31
+586,Arua,6,Primary,Small Business,1,1,0,32.05,1,1,1,23.79
+587,Hoima,3,Primary,Small Business,1,1,0,39.39,0,0,1,34.96
+588,Fort Portal,2,None,Small Business,1,0,0,4.82,1,0,1,27.18
+589,Arua,8,Primary,Livestock Rearing,1,1,0,19.48,0,0,0,42.54
+590,Fort Portal,5,Secondary,Livestock Rearing,1,0,1,5.51,0,0,0,42.28
+591,Fort Portal,5,Primary,Livestock Rearing,1,1,0,8.56,0,1,0,34.74
+592,Mbarara,4,Primary,Small Business,1,0,0,41.61,0,1,0,35.63
+593,Lira,9,Primary,Livestock Rearing,1,1,0,35.39,0,0,0,46.62
+594,Lira,5,Secondary,Small Business,1,0,0,18.98,1,1,0,20.94
+595,Mbarara,6,Secondary,Subsistence Farming,0,1,1,20.9,0,0,0,45.62
+596,Masaka,8,Secondary,Small Business,1,0,0,34.21,0,1,1,35.67
+597,Gulu,7,Primary,Casual Labor,0,1,1,32.3,0,1,0,43.58
+598,Masaka,6,Primary,Livestock Rearing,0,0,0,24.88,0,0,1,44.82
+599,Kampala,4,Secondary,Livestock Rearing,0,0,0,37.7,1,0,0,39.29
+600,Kampala,6,Secondary,Casual Labor,1,0,1,11.28,0,0,1,48.69
+601,Fort Portal,7,Primary,Small Business,0,0,0,15.79,0,0,0,51.33
+602,Arua,3,Secondary,Subsistence Farming,1,0,0,4.18,0,0,0,43.72
+603,Arua,4,Secondary,Casual Labor,0,0,0,29.11,1,1,1,27.07
+604,Lira,3,Secondary,Casual Labor,1,0,1,38.21,0,1,1,37.82
+605,Mbale,2,Secondary,Small Business,1,1,1,26.74,1,0,1,35.67
+606,Masaka,3,Primary,Livestock Rearing,0,0,0,19,0,0,0,48.21
+607,Hoima,2,Primary,Small Business,0,0,0,10.78,0,0,1,45.26
+608,Jinja,2,Primary,Casual Labor,1,1,1,28.44,1,0,0,43.8
+609,Arua,3,Secondary,Casual Labor,1,1,0,7.74,1,0,1,39.52
+610,Jinja,4,Secondary,Livestock Rearing,0,1,0,27.58,0,1,1,32.82
+611,Fort Portal,9,Secondary,Livestock Rearing,1,0,0,10.08,0,0,1,38.35
+612,Jinja,7,None,Livestock Rearing,0,0,0,5.68,0,0,0,44.95
+613,Hoima,6,Secondary,Small Business,1,1,0,48.28,0,0,0,43.23
+614,Mbarara,6,Secondary,Livestock Rearing,0,1,0,3.91,0,0,0,46.87
+615,Hoima,7,Secondary,Casual Labor,1,1,1,44.23,0,0,0,47.08
+616,Jinja,8,Secondary,Casual Labor,0,1,0,47.94,0,0,0,39.88
+617,Hoima,8,Secondary,Subsistence Farming,1,0,1,35,0,0,0,39.39
+618,Gulu,2,Primary,Small Business,0,1,0,48.31,0,0,0,45.9
+619,Fort Portal,2,Primary,Subsistence Farming,1,0,1,38.14,0,0,1,54.13
+620,Masaka,4,Primary,Casual Labor,1,0,0,9.81,0,0,1,37.48
+621,Mbarara,5,Primary,Subsistence Farming,0,1,0,28.34,0,0,0,37.12
+622,Arua,3,Secondary,Casual Labor,0,0,0,36.21,0,0,1,46.69
+623,Kampala,2,Secondary,Subsistence Farming,0,0,0,30.06,1,0,1,34.84
+624,Masaka,6,Primary,Livestock Rearing,1,0,0,21.63,0,0,0,39.92
+625,Kampala,4,Primary,Subsistence Farming,1,0,0,17.18,0,0,1,44.29
+626,Fort Portal,3,Secondary,Livestock Rearing,1,1,0,45.6,1,0,1,36.5
+627,Mbarara,4,None,Livestock Rearing,1,1,0,42.53,0,0,1,45.02
+628,Lira,3,Primary,Small Business,1,0,1,42.91,0,0,0,40.23
+629,Arua,3,None,Livestock Rearing,0,0,0,19.78,0,0,1,44.55
+630,Gulu,7,Primary,Livestock Rearing,1,0,0,22.12,0,0,1,39.16
+631,Lira,2,Primary,Subsistence Farming,1,1,0,48.79,0,0,1,48.23
+632,Fort Portal,9,Primary,Casual Labor,0,1,1,43.63,0,0,1,32.43
+633,Masaka,4,Primary,Small Business,1,0,1,33.67,0,0,0,49.58
+634,Gulu,9,Secondary,Livestock Rearing,0,0,0,16.15,0,1,0,38.18
+635,Hoima,4,Primary,Small Business,1,1,0,18.84,0,0,0,41.19
+636,Jinja,7,Secondary,Subsistence Farming,1,0,0,35.65,0,0,1,44.3
+637,Gulu,6,Primary,Livestock Rearing,0,0,1,3.11,0,0,0,39.19
+638,Fort Portal,9,Primary,Subsistence Farming,1,0,0,46.13,0,0,0,42.44
+639,Mbale,6,Secondary,Small Business,1,1,1,16.44,1,0,1,30.16
+640,Jinja,8,None,Subsistence Farming,0,0,1,16.53,0,0,1,47.91
+641,Kampala,2,Primary,Small Business,1,0,0,1.06,0,0,0,44.04
+642,Arua,2,Primary,Subsistence Farming,1,1,0,33.36,1,0,1,33.48
+643,Kampala,5,Secondary,Small Business,0,1,0,26.45,1,1,1,30.21
+644,Gulu,7,None,Casual Labor,1,1,0,24.65,1,1,1,27.14
+645,Kampala,6,Primary,Subsistence Farming,1,0,0,21.73,1,0,0,33.31
+646,Fort Portal,3,Secondary,Subsistence Farming,1,1,1,15.5,1,0,0,38.24
+647,Hoima,4,Primary,Casual Labor,1,0,0,21.74,1,0,1,37.87
+648,Masaka,2,Secondary,Casual Labor,1,1,0,1.24,0,0,1,40.95
+649,Arua,9,Secondary,Subsistence Farming,1,1,1,15.66,0,1,0,31.22
+650,Kampala,4,Tertiary,Casual Labor,1,1,1,46.36,0,0,0,43.26
+651,Kampala,4,Primary,Livestock Rearing,1,1,0,41.31,1,1,1,31.1
+652,Gulu,5,Secondary,Small Business,0,0,0,31.91,0,0,0,45.84
+653,Masaka,6,Primary,Small Business,1,0,0,41.59,0,0,0,46.54
+654,Lira,2,Primary,Small Business,0,0,0,27.57,1,1,1,24.2
+655,Kampala,4,Primary,Livestock Rearing,1,0,0,5.67,0,0,0,45.29
+656,Fort Portal,2,Secondary,Casual Labor,1,0,1,23.6,0,0,1,38.81
+657,Mbale,3,Primary,Casual Labor,0,0,0,46.27,0,1,1,42.47
+658,Arua,5,Primary,Subsistence Farming,0,1,0,4.18,1,0,0,32.39
+659,Kampala,3,None,Casual Labor,1,1,0,37.09,0,0,0,49.67
+660,Fort Portal,2,Secondary,Subsistence Farming,0,1,0,35.29,1,0,1,33.2
+661,Fort Portal,8,Secondary,Livestock Rearing,1,1,0,16.85,0,1,0,34.55
+662,Arua,9,Secondary,Small Business,0,1,0,43.47,0,0,1,46.8
+663,Lira,2,Primary,Small Business,1,1,0,33.43,1,0,1,37.11
+664,Fort Portal,6,Primary,Small Business,0,1,1,11.69,1,0,0,38.76
+665,Mbale,4,Secondary,Casual Labor,1,0,0,32.37,1,0,0,28.49
+666,Fort Portal,4,Primary,Subsistence Farming,1,1,0,41.56,1,1,0,23.78
+667,Fort Portal,3,Primary,Subsistence Farming,0,1,1,43.98,1,0,1,42.83
+668,Fort Portal,9,Secondary,Livestock Rearing,1,1,1,47.53,0,1,0,35.59
+669,Hoima,5,Tertiary,Casual Labor,1,0,0,3.37,0,1,1,41.59
+670,Hoima,8,Secondary,Livestock Rearing,0,1,0,8.74,0,0,1,46.04
+671,Lira,7,Secondary,Subsistence Farming,1,1,1,9.34,0,0,1,46.85
+672,Kampala,9,Tertiary,Subsistence Farming,0,1,1,12.75,1,0,1,36.58
+673,Fort Portal,4,Primary,Small Business,0,0,0,34.56,0,0,1,42.48
+674,Masaka,6,Primary,Casual Labor,0,1,0,21.43,0,0,1,50.55
+675,Kampala,9,Tertiary,Subsistence Farming,1,1,0,6.91,1,0,0,35.74
+676,Lira,3,Primary,Small Business,1,1,0,48.76,0,0,1,38
+677,Mbarara,3,Secondary,Casual Labor,1,0,1,5.95,0,0,1,42.92
+678,Kampala,7,Primary,Livestock Rearing,1,0,0,44.17,0,0,1,45.28
+679,Kampala,6,Primary,Casual Labor,1,1,0,17.61,1,1,1,20.59
+680,Jinja,5,Secondary,Casual Labor,1,1,0,7.04,0,0,0,41.62
+681,Gulu,9,Tertiary,Subsistence Farming,1,0,0,3.57,0,0,1,39.41
+682,Jinja,6,Secondary,Subsistence Farming,1,0,1,24.24,0,0,0,43.8
+683,Mbale,5,None,Casual Labor,1,0,0,21.27,0,0,1,46.37
+684,Hoima,6,Secondary,Subsistence Farming,1,1,0,24.9,1,0,0,31.02
+685,Hoima,6,Primary,Subsistence Farming,0,1,0,33.74,0,0,0,42.64
+686,Gulu,2,Primary,Subsistence Farming,1,0,0,14.3,0,0,1,35.32
+687,Arua,3,Primary,Small Business,1,0,0,1.08,0,0,1,48.14
+688,Arua,9,Primary,Small Business,1,1,1,27.4,1,0,0,34.24
+689,Lira,6,Primary,Casual Labor,1,1,1,3.52,1,0,0,31.02
+690,Gulu,9,Tertiary,Subsistence Farming,1,1,0,41.06,0,0,0,46.62
+691,Kampala,7,Secondary,Small Business,1,0,1,40.61,0,0,1,51.43
+692,Arua,6,Secondary,Casual Labor,0,0,0,6.91,1,0,0,33.29
+693,Fort Portal,4,None,Subsistence Farming,0,1,0,47.68,1,0,1,37.75
+694,Masaka,3,Tertiary,Livestock Rearing,0,0,1,20.73,0,0,1,39.95
+695,Kampala,4,Tertiary,Subsistence Farming,0,0,0,28.39,0,0,1,39.61
+696,Mbale,9,Secondary,Subsistence Farming,0,1,0,37.77,0,0,0,48.1
+697,Fort Portal,9,None,Small Business,1,1,1,10.32,1,0,0,36.8
+698,Fort Portal,3,None,Casual Labor,1,0,1,1.52,0,0,1,49.69
+699,Gulu,9,Primary,Casual Labor,0,0,1,37.17,1,0,0,31.42
+700,Lira,4,Primary,Small Business,1,0,0,39.75,0,0,0,46.36
+701,Mbale,6,Primary,Subsistence Farming,0,0,0,33.32,1,0,1,33.69
+702,Arua,6,Tertiary,Livestock Rearing,1,0,0,31.48,0,0,1,42.92
+703,Gulu,2,Primary,Subsistence Farming,1,0,0,45.21,0,0,0,43.81
+704,Arua,7,None,Subsistence Farming,1,1,0,44.28,0,1,0,39.96
+705,Gulu,9,Primary,Livestock Rearing,1,1,0,5.66,0,0,1,37.62
+706,Gulu,4,None,Small Business,1,0,0,10.89,0,1,0,35.95
+707,Gulu,9,None,Casual Labor,0,0,0,32.53,0,0,0,54.18
+708,Lira,9,Primary,Small Business,0,1,1,4.96,0,1,1,38.29
+709,Gulu,5,Primary,Small Business,0,0,0,27.81,0,0,1,45.25
+710,Mbarara,2,Secondary,Subsistence Farming,0,0,0,7.84,0,0,0,42.6
+711,Masaka,4,Tertiary,Casual Labor,0,0,1,47.33,0,1,0,35.64
+712,Arua,4,Primary,Casual Labor,1,0,0,20.16,1,0,0,26.82
+713,Kampala,9,Primary,Small Business,1,1,0,12.37,0,0,1,45.32
+714,Jinja,2,Secondary,Livestock Rearing,1,1,0,38.03,0,1,1,39.33
+715,Mbale,6,Primary,Small Business,1,0,0,11.07,0,1,0,34.54
+716,Hoima,4,Primary,Livestock Rearing,0,0,1,42.94,0,0,0,45.65
+717,Lira,6,Secondary,Casual Labor,1,1,0,41.5,0,1,0,28.72
+718,Kampala,2,None,Small Business,0,0,0,13.48,0,0,1,40.69
+719,Fort Portal,6,Secondary,Subsistence Farming,1,0,0,17.29,1,1,0,28.94
+720,Mbarara,3,Primary,Small Business,0,1,0,2.65,1,0,1,29.81
+721,Hoima,5,Primary,Casual Labor,0,1,0,15.65,0,0,0,51.26
+722,Jinja,8,Primary,Subsistence Farming,0,0,0,9,0,0,1,39.55
+723,Kampala,4,Secondary,Subsistence Farming,1,1,1,2.75,1,0,0,27.11
+724,Hoima,7,None,Livestock Rearing,1,1,0,47.59,0,1,0,33.28
+725,Kampala,5,Primary,Subsistence Farming,0,1,0,47.16,0,0,1,41.42
+726,Mbarara,8,Secondary,Subsistence Farming,1,1,0,31.6,0,0,1,40.46
+727,Jinja,6,Primary,Small Business,1,1,0,23.72,0,0,0,44.92
+728,Fort Portal,4,Primary,Casual Labor,1,0,1,23.98,0,0,1,41.86
+729,Gulu,6,Secondary,Livestock Rearing,1,0,0,32,0,1,0,33.47
+730,Arua,3,Primary,Small Business,1,0,1,13.07,1,0,1,28.88
+731,Fort Portal,2,Secondary,Subsistence Farming,0,1,0,34.67,0,0,1,45.14
+732,Gulu,4,Secondary,Subsistence Farming,1,0,0,2.31,0,1,0,43.43
+733,Lira,8,Secondary,Livestock Rearing,1,0,0,32.96,0,0,0,47.18
+734,Masaka,8,Primary,Casual Labor,1,0,0,26.41,1,0,1,35.68
+735,Mbale,3,Tertiary,Livestock Rearing,0,1,0,35.07,0,0,0,46.19
+736,Mbale,3,Primary,Small Business,1,1,0,31.02,0,0,1,47.41
+737,Arua,9,Secondary,Livestock Rearing,1,0,0,13.54,0,0,0,41.08
+738,Jinja,4,Primary,Subsistence Farming,1,1,0,27.34,0,0,0,44.07
+739,Mbarara,6,Primary,Small Business,1,1,1,33.35,0,0,0,41.57
+740,Jinja,7,Primary,Subsistence Farming,0,0,0,1.79,0,1,1,37.04
+741,Mbarara,8,Tertiary,Casual Labor,0,0,1,48.44,0,0,0,49.19
+742,Jinja,8,Tertiary,Subsistence Farming,1,1,1,19.42,0,0,0,44.63
+743,Masaka,3,Primary,Subsistence Farming,1,0,0,14.33,1,0,1,31.2
+744,Lira,5,None,Livestock Rearing,0,0,1,35.93,0,0,0,49.09
+745,Lira,3,Secondary,Subsistence Farming,1,1,0,39.63,0,0,1,41.86
+746,Gulu,7,Primary,Small Business,1,0,0,21.47,0,0,1,36.89
+747,Hoima,6,None,Small Business,0,1,0,30.65,0,0,0,41.98
+748,Lira,6,Secondary,Casual Labor,1,1,0,13.94,0,0,0,47.08
+749,Lira,5,Primary,Small Business,1,1,1,35.42,0,0,1,42.29
+750,Fort Portal,8,Tertiary,Livestock Rearing,1,1,0,25.38,0,0,0,47.64
+751,Fort Portal,3,Primary,Casual Labor,1,0,1,7.84,0,0,1,48.81
+752,Gulu,9,Primary,Small Business,1,0,0,41.25,0,1,0,40.07
+753,Hoima,6,Primary,Livestock Rearing,1,0,0,45.09,0,0,0,42.53
+754,Arua,7,Secondary,Small Business,1,1,0,17.91,0,0,0,53.11
+755,Fort Portal,4,Primary,Small Business,1,1,0,19.19,0,0,1,51.48
+756,Arua,2,Secondary,Subsistence Farming,1,0,1,38.83,1,0,0,37
+757,Kampala,2,Primary,Small Business,0,1,0,42.96,0,0,1,45.04
+758,Fort Portal,2,Secondary,Small Business,1,0,0,26.72,0,0,0,42.34
+759,Masaka,9,Primary,Livestock Rearing,1,1,0,43.38,0,0,1,43.08
+760,Hoima,8,Primary,Livestock Rearing,1,0,0,1.9,0,0,1,42.72
+761,Gulu,3,Secondary,Subsistence Farming,1,0,1,9.08,0,0,0,40.87
+762,Kampala,5,Primary,Small Business,1,1,0,43.33,1,0,0,28.24
+763,Hoima,9,None,Subsistence Farming,1,0,0,33.93,0,0,0,42.72
+764,Masaka,9,Secondary,Small Business,1,1,0,32.4,1,1,1,25.8
+765,Hoima,6,Primary,Casual Labor,1,1,0,33.12,0,0,0,49.78
+766,Masaka,4,Secondary,Casual Labor,1,1,0,6.43,1,0,0,36.75
+767,Masaka,9,Primary,Subsistence Farming,0,0,0,43.35,0,0,0,38.19
+768,Arua,7,Secondary,Subsistence Farming,1,1,0,5.79,0,0,1,49.21
+769,Jinja,4,Primary,Subsistence Farming,1,0,0,11.02,0,0,1,48.36
+770,Kampala,7,Primary,Livestock Rearing,1,1,0,37.19,0,0,1,47.72
+771,Hoima,8,Tertiary,Livestock Rearing,1,1,0,12.73,0,0,1,53.64
+772,Mbarara,3,Secondary,Livestock Rearing,1,0,0,40.39,0,0,1,46.02
+773,Kampala,2,Primary,Subsistence Farming,0,0,1,36.6,1,0,1,33.41
+774,Jinja,9,Primary,Small Business,1,0,1,37.37,0,0,0,47.97
+775,Kampala,3,Secondary,Casual Labor,0,0,0,21.73,1,0,1,35.99
+776,Lira,8,Primary,Subsistence Farming,0,0,1,28.39,0,1,0,32.5
+777,Mbarara,5,Secondary,Livestock Rearing,0,0,1,22.91,0,0,0,46.86
+778,Jinja,5,Secondary,Livestock Rearing,1,0,0,37.24,0,0,0,47.21
+779,Arua,8,None,Subsistence Farming,1,1,1,6.94,0,0,0,41.92
+780,Hoima,7,Primary,Subsistence Farming,1,0,0,23.27,0,0,1,48.07
+781,Mbale,6,Secondary,Livestock Rearing,1,1,1,39.8,1,0,0,37.63
+782,Jinja,6,Primary,Small Business,1,0,0,11.8,0,0,0,37.78
+783,Gulu,7,Primary,Livestock Rearing,0,1,0,22.41,0,0,0,36.42
+784,Hoima,5,Tertiary,Livestock Rearing,1,1,0,15.26,1,0,0,34.09
+785,Jinja,5,Primary,Subsistence Farming,1,0,0,22.92,0,1,0,42.71
+786,Lira,9,Secondary,Small Business,0,1,0,3.47,0,0,1,40.94
+787,Mbale,5,Primary,Livestock Rearing,1,0,1,24.28,0,0,1,45.56
+788,Lira,3,Primary,Livestock Rearing,0,1,0,20.93,0,0,0,43.75
+789,Mbale,5,None,Casual Labor,1,0,0,46.94,1,0,0,29.93
+790,Gulu,4,Primary,Subsistence Farming,1,0,0,13.44,0,0,0,45.07
+791,Hoima,9,Primary,Casual Labor,1,1,1,13.69,0,0,0,44.69
+792,Arua,2,Primary,Casual Labor,1,0,0,8.38,0,0,1,46.65
+793,Lira,5,Secondary,Livestock Rearing,0,1,0,13.23,0,1,1,38.03
+794,Lira,7,Primary,Subsistence Farming,0,1,1,47.23,0,0,1,43.57
+795,Masaka,2,Primary,Small Business,0,0,0,31.75,0,1,1,36.44
+796,Mbale,3,Primary,Livestock Rearing,1,1,1,1.76,0,0,0,44.5
+797,Fort Portal,7,None,Small Business,1,0,1,2.69,0,0,0,44.57
+798,Hoima,2,Primary,Small Business,1,0,1,2.32,0,0,0,39.47
+799,Mbale,7,Primary,Subsistence Farming,1,0,0,13.4,0,0,0,44.66
+800,Masaka,3,Primary,Casual Labor,1,1,0,3.82,0,0,1,43.13
+801,Kampala,9,None,Subsistence Farming,0,0,0,4.29,0,0,0,42.8
+802,Mbale,4,Primary,Small Business,0,1,0,22.45,1,0,0,29.99
+803,Arua,3,Secondary,Livestock Rearing,1,1,0,1.38,1,0,0,41.57
+804,Hoima,3,Primary,Small Business,1,1,0,1.81,0,0,0,48.11
+805,Masaka,7,Primary,Livestock Rearing,1,0,0,31.37,0,0,1,42.73
+806,Kampala,9,Secondary,Livestock Rearing,1,1,1,35.19,1,0,0,38.49
+807,Mbarara,8,Primary,Subsistence Farming,0,0,0,48.28,0,0,1,55.43
+808,Masaka,6,Secondary,Small Business,1,1,0,24.7,0,1,1,34.31
+809,Mbarara,5,Primary,Casual Labor,0,1,0,28.84,1,0,0,36.24
+810,Hoima,5,Primary,Small Business,1,0,0,30.03,0,0,1,46.67
+811,Lira,4,Primary,Small Business,1,1,0,37.66,0,0,1,48.49
+812,Masaka,4,Primary,Casual Labor,0,1,0,21.35,0,0,1,36.96
+813,Gulu,5,Secondary,Subsistence Farming,1,0,0,49.27,0,0,0,42.19
+814,Mbarara,6,Primary,Small Business,0,1,1,25.45,0,0,1,47.08
+815,Arua,5,Secondary,Small Business,1,1,0,7.26,0,1,1,35.57
+816,Gulu,8,Primary,Livestock Rearing,1,0,0,37.64,1,0,0,40.01
+817,Jinja,6,Primary,Small Business,1,1,0,26.45,1,1,1,26.51
+818,Jinja,4,Primary,Casual Labor,1,0,1,32.85,0,0,1,41.22
+819,Kampala,2,None,Livestock Rearing,0,0,1,26.19,1,0,1,30.35
+820,Lira,7,Primary,Subsistence Farming,1,0,1,32.89,0,1,0,40.62
+821,Hoima,8,Secondary,Livestock Rearing,1,1,0,23.19,0,0,1,39.84
+822,Masaka,8,Secondary,Casual Labor,1,0,0,20.14,1,1,0,26.11
+823,Fort Portal,9,Primary,Casual Labor,0,1,1,10.25,0,0,0,43.78
+824,Arua,4,Secondary,Livestock Rearing,1,1,1,17.25,0,0,1,36.45
+825,Mbarara,4,Tertiary,Subsistence Farming,0,0,1,2.84,0,0,1,38.24
+826,Hoima,3,Secondary,Livestock Rearing,0,1,1,25.3,1,1,0,30.71
+827,Gulu,8,Primary,Subsistence Farming,1,1,0,22.1,0,0,0,50.42
+828,Jinja,3,Secondary,Livestock Rearing,0,0,1,6.66,0,1,1,34.27
+829,Arua,3,Primary,Casual Labor,0,0,0,28.54,0,0,1,42.42
+830,Fort Portal,7,Tertiary,Small Business,0,0,0,44.73,1,0,1,32.23
+831,Masaka,3,Primary,Small Business,0,0,0,26.05,1,0,0,36.47
+832,Kampala,6,Primary,Subsistence Farming,1,1,0,3.39,0,0,1,44.66
+833,Fort Portal,5,Secondary,Subsistence Farming,1,0,0,21.37,0,0,0,40.56
+834,Arua,2,Primary,Subsistence Farming,0,0,0,45.7,0,0,0,47.35
+835,Fort Portal,4,Tertiary,Casual Labor,0,1,0,47.67,0,0,1,46.23
+836,Arua,6,Tertiary,Livestock Rearing,0,0,0,42.46,1,1,0,32.69
+837,Arua,2,Secondary,Casual Labor,1,1,0,22.12,1,0,0,37.41
+838,Mbale,8,Primary,Small Business,0,0,1,19.59,0,0,0,41.41
+839,Mbarara,8,Secondary,Subsistence Farming,1,0,1,15.06,0,1,0,40.97
+840,Jinja,8,None,Livestock Rearing,1,0,0,8.01,0,0,1,42.21
+841,Mbale,6,None,Small Business,0,0,1,45.14,0,0,1,42.38
+842,Masaka,6,Secondary,Small Business,0,0,0,34.27,1,0,1,37.35
+843,Mbale,4,Primary,Small Business,0,1,1,41.27,0,1,0,40.12
+844,Lira,5,Primary,Casual Labor,0,0,0,5.89,0,0,0,46.2
+845,Lira,9,Tertiary,Subsistence Farming,0,1,0,9.41,0,1,1,36.59
+846,Jinja,3,Primary,Small Business,0,1,1,2.7,0,0,1,47.46
+847,Fort Portal,8,Primary,Subsistence Farming,1,1,0,22.87,0,0,1,47.94
+848,Mbarara,7,Tertiary,Casual Labor,1,1,0,22.31,0,0,0,43.72
+849,Jinja,5,Primary,Small Business,1,0,0,41.84,0,0,0,42.47
+850,Arua,7,Secondary,Casual Labor,1,0,1,2.44,0,1,0,35.88
+851,Gulu,4,Tertiary,Casual Labor,0,1,0,26.32,1,1,1,36.2
+852,Mbarara,4,Tertiary,Subsistence Farming,0,1,0,37.31,0,0,1,34.9
+853,Mbarara,4,Secondary,Small Business,1,0,0,32.27,0,0,1,45.03
+854,Arua,2,Primary,Casual Labor,0,0,0,48.26,0,0,0,44.74
+855,Arua,7,Primary,Small Business,0,1,0,44.13,0,0,1,47.01
+856,Kampala,5,Secondary,Subsistence Farming,0,1,1,9.47,1,0,0,35.86
+857,Jinja,9,Secondary,Casual Labor,0,1,0,20.22,1,0,1,36.92
+858,Arua,5,Primary,Subsistence Farming,0,1,0,37.59,1,0,1,33.88
+859,Lira,6,Primary,Small Business,0,0,0,21.65,1,0,1,15.89
+860,Masaka,6,Primary,Small Business,1,0,0,21.72,1,0,0,24.91
+861,Gulu,8,None,Subsistence Farming,0,1,1,11.43,1,1,0,28.1
+862,Jinja,9,Secondary,Livestock Rearing,1,1,1,9.13,0,0,1,49.65
+863,Hoima,6,Primary,Casual Labor,0,1,0,33.2,1,0,1,27.78
+864,Lira,4,Tertiary,Small Business,1,1,1,49.41,0,0,0,34.88
+865,Fort Portal,5,Secondary,Small Business,1,0,0,46.47,1,0,0,29.24
+866,Arua,7,Primary,Casual Labor,1,0,0,43.46,1,0,0,35.71
+867,Hoima,4,Secondary,Subsistence Farming,1,1,0,49.06,1,1,1,22.83
+868,Arua,2,Primary,Subsistence Farming,1,1,1,9.87,0,0,0,45.26
+869,Mbarara,6,Primary,Subsistence Farming,1,0,1,22.19,0,1,0,31.84
+870,Lira,4,Secondary,Livestock Rearing,0,1,0,7.85,0,0,1,43.28
+871,Mbarara,4,Secondary,Livestock Rearing,1,0,0,24.31,0,0,0,40.39
+872,Kampala,2,Secondary,Small Business,1,1,0,5.2,0,0,1,42.04
+873,Mbarara,3,Primary,Subsistence Farming,1,0,1,34.21,1,0,0,36.41
+874,Kampala,5,None,Casual Labor,0,1,1,22.84,0,0,1,38.24
+875,Kampala,7,Secondary,Small Business,1,0,1,43.75,0,0,1,42.11
+876,Hoima,8,Primary,Casual Labor,0,1,0,12.32,0,0,1,32.94
+877,Arua,3,Primary,Small Business,0,0,0,20.31,0,0,1,49.32
+878,Fort Portal,6,None,Livestock Rearing,1,0,0,1.06,0,0,1,40.56
+879,Mbarara,4,Secondary,Small Business,1,1,0,23.84,0,1,1,42.63
+880,Lira,9,Primary,Livestock Rearing,1,1,0,5.08,0,0,1,45.64
+881,Kampala,2,Secondary,Small Business,1,1,0,46.67,0,0,0,49
+882,Arua,2,Tertiary,Subsistence Farming,0,0,1,47.63,0,0,0,45.69
+883,Gulu,9,None,Casual Labor,1,0,0,28.15,0,0,1,43.47
+884,Jinja,5,None,Subsistence Farming,0,1,0,22.42,0,0,1,40.1
+885,Hoima,3,Primary,Small Business,1,0,0,24.31,1,0,1,36.6
+886,Fort Portal,8,Secondary,Small Business,1,1,0,17.99,1,0,1,34.55
+887,Mbale,5,Primary,Small Business,1,1,0,22.41,1,0,0,35.14
+888,Hoima,9,Primary,Livestock Rearing,1,1,1,25.56,1,0,0,26.23
+889,Gulu,4,None,Casual Labor,1,0,0,48.16,0,0,0,52.5
+890,Jinja,9,Secondary,Casual Labor,1,0,0,20.62,0,0,1,45.38
+891,Gulu,5,Primary,Small Business,0,0,0,37.85,0,0,1,48.34
+892,Mbarara,7,Secondary,Small Business,1,0,1,36.88,0,0,0,46.02
+893,Kampala,2,Tertiary,Livestock Rearing,0,1,0,48,0,0,1,38.08
+894,Fort Portal,2,Primary,Subsistence Farming,0,0,0,3.48,0,0,0,46.24
+895,Masaka,6,Secondary,Subsistence Farming,1,1,0,5.26,0,0,0,41.9
+896,Kampala,6,None,Casual Labor,0,0,0,29.22,1,0,1,39.65
+897,Masaka,9,Secondary,Livestock Rearing,0,1,1,24.36,0,0,1,41.79
+898,Jinja,8,Secondary,Small Business,0,1,0,31.3,0,0,0,48.92
+899,Arua,4,Secondary,Casual Labor,0,1,0,27.15,0,0,1,43.67
+900,Mbale,7,None,Livestock Rearing,0,1,1,38.49,0,0,0,41.25
+901,Lira,3,Primary,Subsistence Farming,0,1,0,44.56,1,0,0,30.3
+902,Kampala,5,Primary,Livestock Rearing,1,0,0,27.14,1,0,1,38.63
+903,Fort Portal,8,Primary,Subsistence Farming,0,1,0,5.37,1,0,1,31.67
+904,Gulu,4,Primary,Livestock Rearing,1,0,1,6.35,0,0,1,41.85
+905,Fort Portal,6,Primary,Casual Labor,0,0,0,11.96,0,0,1,40.98
+906,Jinja,9,Primary,Subsistence Farming,0,1,0,43.18,0,0,1,40.51
+907,Masaka,5,Primary,Casual Labor,1,0,0,29.41,0,0,0,38.56
+908,Gulu,6,Secondary,Casual Labor,0,1,0,19.45,0,0,0,42.53
+909,Lira,9,Primary,Subsistence Farming,0,1,1,18.76,0,0,1,46.15
+910,Lira,5,None,Subsistence Farming,1,1,1,4,1,1,0,22.43
+911,Kampala,3,Primary,Small Business,0,0,0,14.63,0,1,1,39.26
+912,Jinja,4,None,Small Business,1,0,0,18.64,1,0,1,27.79
+913,Arua,5,Tertiary,Small Business,1,1,1,5.2,0,0,0,41.68
+914,Jinja,7,Primary,Casual Labor,1,1,1,21.4,0,0,1,40.07
+915,Masaka,8,Secondary,Casual Labor,0,1,0,20.06,1,1,1,21.09
+916,Fort Portal,2,Tertiary,Small Business,1,0,0,47.62,1,0,0,29.8
+917,Lira,7,Secondary,Casual Labor,1,0,0,24.21,1,0,1,32.77
+918,Fort Portal,7,Secondary,Casual Labor,1,0,1,33.29,0,0,1,47.04
+919,Fort Portal,8,Secondary,Subsistence Farming,1,1,1,44.08,0,0,0,48.4
+920,Fort Portal,2,Tertiary,Subsistence Farming,0,1,0,44.31,0,0,1,41.96
+921,Lira,7,Secondary,Casual Labor,1,0,0,31.31,0,0,0,50.73
+922,Hoima,5,Primary,Small Business,1,1,1,26.51,0,0,0,43.85
+923,Mbarara,5,Secondary,Livestock Rearing,0,1,0,16.72,0,0,1,35.32
+924,Masaka,5,Primary,Small Business,1,1,0,23.15,0,0,0,40.75
+925,Hoima,2,Secondary,Livestock Rearing,0,1,0,4.64,0,1,1,36.33
+926,Masaka,7,Primary,Small Business,1,1,0,9.05,0,0,0,50.74
+927,Gulu,9,Primary,Subsistence Farming,1,1,1,19.33,0,1,1,35.34
+928,Jinja,2,Primary,Casual Labor,1,0,1,2.13,0,0,1,46.7
+929,Jinja,5,None,Casual Labor,1,1,0,36.09,1,0,0,39.89
+930,Mbale,8,Primary,Subsistence Farming,1,0,0,29.84,0,0,1,34.83
+931,Jinja,7,None,Livestock Rearing,0,0,0,42.91,0,0,1,43.21
+932,Lira,7,Primary,Livestock Rearing,1,1,0,9.21,0,0,1,43.1
+933,Arua,6,Primary,Livestock Rearing,1,1,0,46.67,0,0,1,42.71
+934,Kampala,6,Secondary,Subsistence Farming,1,1,1,45.19,0,0,1,45.05
+935,Mbale,3,None,Livestock Rearing,0,1,1,27.34,0,0,0,49.57
+936,Kampala,9,Primary,Subsistence Farming,0,0,1,18.97,0,0,1,46.44
+937,Masaka,9,Secondary,Small Business,1,1,1,43.43,0,0,1,49.52
+938,Kampala,4,Primary,Small Business,1,1,0,47.11,1,1,1,24.84
+939,Kampala,9,None,Subsistence Farming,1,0,1,8.93,0,1,0,41.26
+940,Mbale,6,Secondary,Casual Labor,0,1,1,29.33,0,0,1,42.44
+941,Gulu,2,Secondary,Small Business,1,1,0,25.65,0,0,0,44.58
+942,Fort Portal,9,Primary,Livestock Rearing,1,1,0,27.28,0,0,1,42.86
+943,Jinja,6,Primary,Subsistence Farming,1,0,0,4.39,0,0,0,44.37
+944,Jinja,3,Tertiary,Livestock Rearing,0,0,0,19.71,0,1,0,27.73
+945,Lira,7,Secondary,Livestock Rearing,1,0,0,8.3,1,0,0,31.86
+946,Mbale,9,Primary,Casual Labor,0,0,0,43.74,0,0,0,44.07
+947,Lira,3,Secondary,Livestock Rearing,1,1,0,23.25,0,0,1,56.06
+948,Arua,7,Primary,Casual Labor,1,0,1,42.03,0,1,0,38.02
+949,Arua,8,Primary,Small Business,1,0,0,11.65,0,1,0,31.8
+950,Lira,8,Primary,Subsistence Farming,0,0,1,43.36,0,0,0,45.54
+951,Mbale,7,Secondary,Livestock Rearing,1,1,0,7.83,0,0,0,51.11
+952,Lira,9,Primary,Subsistence Farming,0,1,1,8.55,0,0,0,43.1
+953,Jinja,4,Secondary,Livestock Rearing,0,1,0,49.4,0,1,0,38
+954,Hoima,6,Primary,Subsistence Farming,1,0,0,2.41,0,1,0,37.96
+955,Mbarara,2,Primary,Livestock Rearing,0,1,0,2.54,0,0,1,38.9
+956,Kampala,2,Primary,Livestock Rearing,1,1,0,6.15,0,0,0,52.28
+957,Mbarara,5,Secondary,Livestock Rearing,0,1,0,10.26,0,1,0,39.45
+958,Mbale,7,Primary,Livestock Rearing,1,0,0,4.36,0,1,1,32.91
+959,Mbarara,2,None,Livestock Rearing,0,1,0,47.58,0,0,0,43.3
+960,Arua,9,Secondary,Livestock Rearing,1,1,0,15.78,0,0,0,44.35
+961,Masaka,4,None,Livestock Rearing,1,1,0,48.3,0,0,1,39.6
+962,Kampala,7,Tertiary,Livestock Rearing,1,1,0,43.95,0,0,1,42.46
+963,Fort Portal,4,None,Livestock Rearing,0,0,0,38.51,0,0,1,49.17
+964,Mbale,9,Secondary,Subsistence Farming,1,1,0,2.32,0,0,0,46.29
+965,Kampala,2,None,Casual Labor,0,1,1,36.64,1,1,1,23.61
+966,Mbarara,2,Tertiary,Livestock Rearing,1,1,0,19.5,0,0,1,48.78
+967,Arua,5,Primary,Casual Labor,1,1,0,43.89,0,0,0,42.5
+968,Gulu,2,Primary,Livestock Rearing,0,1,0,28.06,1,0,0,30.89
+969,Hoima,7,Primary,Livestock Rearing,1,1,0,12.4,0,0,0,39.21
+970,Fort Portal,9,Primary,Subsistence Farming,1,0,1,30.72,1,0,1,41.16
+971,Hoima,8,Primary,Small Business,0,0,0,27.01,1,0,0,35.02
+972,Kampala,9,Tertiary,Small Business,1,1,0,34.92,0,0,1,43.31
+973,Arua,7,Primary,Subsistence Farming,1,0,1,13.43,0,0,0,43.24
+974,Arua,7,Secondary,Casual Labor,0,1,1,49.5,0,0,0,52.33
+975,Mbarara,5,Secondary,Small Business,1,0,0,33.8,0,0,0,38.57
+976,Jinja,5,Secondary,Subsistence Farming,1,1,1,19.9,0,0,0,47.36
+977,Mbarara,2,Primary,Subsistence Farming,0,1,0,29.88,0,0,1,42.36
+978,Jinja,3,Primary,Small Business,1,0,1,20.98,0,0,0,44.63
+979,Jinja,9,Secondary,Casual Labor,1,1,1,43.44,0,0,0,40.93
+980,Fort Portal,9,Tertiary,Subsistence Farming,1,1,0,47.1,1,0,0,42.06
+981,Mbarara,3,Primary,Livestock Rearing,0,1,0,45.53,1,0,0,36.78
+982,Gulu,5,Primary,Casual Labor,0,0,0,21.98,0,0,1,39
+983,Lira,2,Primary,Casual Labor,1,1,0,11.66,0,0,0,47.02
+984,Lira,3,Tertiary,Small Business,1,0,0,30.68,0,0,1,42.4
+985,Mbarara,2,Primary,Small Business,1,1,0,28.57,0,0,1,45.25
+986,Mbarara,2,Primary,Livestock Rearing,0,1,0,4.14,1,0,1,33.12
+987,Hoima,2,Secondary,Subsistence Farming,1,1,0,42.68,1,0,0,38.07
+988,Fort Portal,6,None,Small Business,0,0,0,2.84,1,0,0,28.37
+989,Mbarara,7,None,Small Business,1,1,1,2.75,0,0,0,43.25
+990,Hoima,2,Secondary,Casual Labor,0,0,1,36.99,1,0,0,30.72
+991,Jinja,6,Tertiary,Small Business,1,1,1,47.23,0,0,0,45.41
+992,Arua,5,Primary,Small Business,1,1,0,35.21,1,0,1,32.63
+993,Arua,3,Primary,Small Business,0,0,0,39.35,0,0,0,42.09
+994,Jinja,7,Primary,Small Business,0,1,0,45.95,0,0,0,42.85
+995,Mbale,8,Primary,Casual Labor,1,1,0,16.95,0,1,0,36.65
+996,Hoima,3,Secondary,Livestock Rearing,1,1,1,31.14,1,0,0,32.61
+997,Hoima,7,Primary,Livestock Rearing,1,1,0,18.59,0,1,0,32.54
+998,Jinja,8,Primary,Subsistence Farming,1,0,0,39.58,0,0,0,52.12
+999,Gulu,3,Primary,Small Business,0,1,0,40.03,0,0,1,46.31
+1000,Masaka,7,Primary,Casual Labor,1,1,0,24.82,0,0,1,44.86
